@@ -1,4 +1,9 @@
-### Hi there 👋
+### 👋 Hi there! I'm Jackie, a speech-language pathologist turned fullstack developer
+- 💻 My enthusiasm for technology and coding started as a hobby to create engaging materials for clients with special needs and to systemize and streamline paperwork and therapy planning
+- 🌱 I am eager to tackle new challenges and learn from experienced developers to enhance my coding skills
+- 🤝 I am passionate about inclusion and creating intuitive, user-friendly applications with readable code
+- 📫 Get in touch via email at jgellick@gmail.com or connect with me on LinkedIn [[LinkedIn Profile Link]](https://www.linkedin.com/in/jacquelinegellick/).
+
 
 <!--
 **jgslp/jgslp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
